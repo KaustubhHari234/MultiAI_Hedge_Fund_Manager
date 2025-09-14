@@ -64,7 +64,7 @@ FINANCIAL_DATASETS_API_KEY=your-financial-datasets-api-key
 
 **Important**: You must set at least one LLM API key (e.g. `OPENAI_API_KEY`, `GROQ_API_KEY`, `ANTHROPIC_API_KEY`, or `DEEPSEEK_API_KEY`) for the hedge fund to work. 
 
-## 3. Install dependencies and run the application
+#### 3. Install dependencies and run the application
 1. Install Poetry (if not already installed):
 ```bash
 pip install poetry
