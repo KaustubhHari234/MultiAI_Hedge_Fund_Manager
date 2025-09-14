@@ -28,7 +28,8 @@ This system employs several agents working together:
 
 #### Application Workflow Chart
 
-<img width="1042" alt="Application workflow chart" src="images\Screenshot 2025-09-14 154752.png" />
+<img width="1281" height="1217" alt="Screenshot 2025-09-14 154752" src="https://github.com/user-attachments/assets/5fa0fc05-d732-45b5-8af7-bc60f1854e1d" />
+
 
 Note: the system does not actually make any trades.
 
@@ -101,19 +102,21 @@ poetry run python src/backtester.py --ticker AAPL,MSFT,NVDA
 
 ##### Sample Run for a Ticker
 
-<img width="941" alt="Screenshot 2025-01-06 at 5 47 52 PM" src="images\Screenshot 2025-09-14 000444.png" />
+<img width="1903" height="1212" alt="Screenshot 2025-09-14 000444" src="https://github.com/user-attachments/assets/a425b3e6-ccd0-43b4-b9ee-8eba1d4232b9" />
 
-<img width="941" alt="Screenshot 2025-01-06 at 5 47 52 PM" src="images\Screenshot 2025-09-14 000551.png" />
+<img width="1972" height="1231" alt="Screenshot 2025-09-14 000551" src="https://github.com/user-attachments/assets/51f6c95f-808b-427c-a233-44e56fdf33b1" />
 
-<img width="941" alt="Screenshot 2025-01-06 at 5 47 52 PM" src="images\Screenshot 2025-09-14 000614.png" />
+<img width="2177" height="1230" alt="Screenshot 2025-09-14 000614" src="https://github.com/user-attachments/assets/626c53bc-3416-4654-bc52-3b37cba5bfbb" />
+
 
 ##### Sample Run for BackTester - from 30 days ago to today
 
-<img width="941" alt="Screenshot 2025-01-06 at 5 47 52 PM" src="images\Screenshot 2025-09-13 235804.png" />
+<img width="2342" height="1044" alt="Screenshot 2025-09-13 235804" src="https://github.com/user-attachments/assets/c6c5025b-3cea-4ac2-9c8f-31d6d1c66013" />
 
-<img width="941" alt="Screenshot 2025-01-06 at 5 47 52 PM" src="images\Screenshot 2025-09-13 235825.png" />
+<img width="2722" height="991" alt="Screenshot 2025-09-13 235825" src="https://github.com/user-attachments/assets/00d70150-e1d0-4e45-a5d7-996d0ab644ea" />
 
-<img width="941" alt="Screenshot 2025-01-06 at 5 47 52 PM" src="images\Screenshot 2025-09-13 235741.png" />
+
+<img width="2362" height="1325" alt="Screenshot 2025-09-13 235741" src="https://github.com/user-attachments/assets/1e740473-28f3-49c5-9dd6-25972fb8a433" />
 
 
 
